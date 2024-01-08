@@ -1,6 +1,6 @@
 from setuptools import find_packages, setup
 
-VERSION = 0.4
+VERSION = 0.7
 with open("README.md") as f:
     README = f.read()
 
@@ -25,6 +25,8 @@ setup(
         "Programming Language :: Python :: 3.7",
         "Programming Language :: Python :: 3.8",
         "Programming Language :: Python :: 3.9",
+        "Programming Language :: Python :: 3.10",
+        "Programming Language :: Python :: 3.11",
         "Operating System :: Unix",
         "Operating System :: MacOS :: MacOS X",
         "Operating System :: Microsoft :: Windows",
